@@ -1,0 +1,33 @@
+{
+    "name": "dkn/flarum-ext-vietnamese",
+    "type": "flarum-extension",
+    "description": "Vietnam language pack for Flarum. Updated by DKN",
+    "keywords": ["locale", "vietnam", "vietnamese"],
+    "license": "MIT",
+    "homepage": "https://github.com/duongkimngoc/flarum-ext-vietnamese",
+    "authors": [
+        {
+            "name": "DuongKimNgoc",
+            "email": "ngocdk@outlook.com",
+            "homepage": "https://github.com/duongkimngoc/"
+        }
+    ],
+    "require": {
+        "flarum/core": "^0.1.0-beta.10"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Tiếng Việt",
+            "icon": {
+                "image": "icon.svg",
+                "backgroundColor": "#00247d",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center"
+            }
+        },
+        "flarum-locale": {
+            "code": "vi",
+            "title": "Tiếng Việt"
+        }
+    }
+}
