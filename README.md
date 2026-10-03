@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of dkn/flarum-ext-vietnamese.** Not for installation: use [Packagist](https://packagist.org/packages/dkn/flarum-ext-vietnamese) or the [upstream repository](https://github.com/duongkimngoc/flarum-ext-vietnamese).
 
-**0** versions archived · Latest: [`0.1.0.13`](https://github.com/flarchive/dkn-flarum-ext-vietnamese/tree/archive/v0.1.0.13) · License: `MIT` · Flarum: `^0.1.0-beta.10`
+**7** versions archived · Latest: [`0.1.0.13`](https://github.com/flarchive/dkn-flarum-ext-vietnamese/tree/archive/v0.1.0.13) · License: `MIT` · Flarum: `^0.1.0-beta.10`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0.10` | 2017-05-15 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/dkn-flarum-ext-vietnamese/tree/archive/v0.1.0.10) |
+| `0.1.0.11` | 2018-05-01 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/dkn-flarum-ext-vietnamese/tree/archive/v0.1.0.11) |
+| `0.1.0.12` | 2018-09-09 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/dkn-flarum-ext-vietnamese/tree/archive/v0.1.0.12) |
+| `0.1.0.13` | 2020-01-09 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/dkn-flarum-ext-vietnamese/tree/archive/v0.1.0.13) |
+| `0.1.0.7` | 2017-05-06 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/dkn-flarum-ext-vietnamese/tree/archive/v0.1.0.7) |
+| `0.1.0.8` | 2017-05-06 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/dkn-flarum-ext-vietnamese/tree/archive/v0.1.0.8) |
+| `0.1.0.9` | 2017-05-08 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/dkn-flarum-ext-vietnamese/tree/archive/v0.1.0.9) |
 
 Catalog entry: [packages/dkn-flarum-ext-vietnamese.json](https://github.com/flarchive/archive-index/blob/main/packages/dkn-flarum-ext-vietnamese.json)
 
